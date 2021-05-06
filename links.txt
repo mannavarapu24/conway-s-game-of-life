@@ -1,0 +1,13 @@
+project 3 
+
+Loginpage :
+https://codd.cs.gsu.edu/~mannavarapu1/web/pro3/loginpage.html
+
+Home page :
+https://codd.cs.gsu.edu/~mannavarapu1/web/pro3/home.html
+
+Rules page :
+https://codd.cs.gsu.edu/~mannavarapu1/web/pro3/rules.html
+
+Youtube link :
+https://www.youtube.com/watch?v=cinXv3F_77I&ab_channel=SoumyaDarba
